@@ -6,8 +6,8 @@ title_separator          : "-"
 description              : "A clean and minimal theme for writers."
 favicon                  : "/assets/images/bird.png"
 avatar                   : "/assets/images/bird.png"
-url                      : "https://theconfused.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/sparrow" # the subpath of your site, e.g. "/blog" leave blank if no subpath
+url                      : "https://zjl88858.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/guitubrowser" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
 # Site Author
 author:
