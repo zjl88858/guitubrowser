@@ -1,17 +1,17 @@
 # main links
 main:
-  - title: "home"
+  - title: "主页"
     url: /
-  - title: "blog"
+  - title: "更新日志"
     url: /blog
-  - title: "poetry"
-    url: /poetry
-  - title: "submenu"
+  - title: "下载"
+    url: /download
+  - title: "开通会员"
     url: /
     children: 
-      - title: "item 1"
+      - title: "赞助获得"
         url: /404
-      - title: "item 2"
+      - title: "贡献算力"
         url: /404
-  - title: "subscribe"
-    url: /feed.xml
+  - title: "Github Pages"
+    url: https://github.com/zjl88858/guitubrowser/
