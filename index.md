@@ -15,11 +15,14 @@ comments: false
 
 
 ----------
-龟兔浏览器Lite  仅内置FireFox Nightly内核  安装即用不带设置界面  不定期更新  最新版本unknown
+龟兔浏览器insider  仅内置FireFox Nightly内核  开箱即用，抢先体验最新内核  不定期更新  最新版本unknown
 
 
 ----------
-龟兔浏览器SM2  仅内置360安全浏览器国密专版  让你在高速海外冲浪的同时不影响工作  不定期更新  最新版本unknown
+龟兔浏览器lite  仅内置Avant Browser Lite内核  迷你尺寸，无论携带还是访问老网站都非常合适  不定期更新  最新版本unknown
+
+
+----------
 
 官方QQ交流群：*4797ii86i*  `（将i替换成1）`
 
