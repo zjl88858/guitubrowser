@@ -5,7 +5,7 @@ main:
   - title: "更新日志"
     url: /blog
   - title: "下载"
-    url: /download
+    url: /download.html
   - title: "开通会员"
     url: /
     children: 
