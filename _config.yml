@@ -6,8 +6,8 @@ title_separator          : "-"
 description              : "多核自选、自带海外加速的开源浏览器"
 favicon                  : "/assets/images/bird.png"
 avatar                   : "/assets/images/bird.png"
-url                      : "https://zjl88858.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/guitubrowser" # the subpath of your site, e.g. "/blog" leave blank if no subpath
+url                      : "http://guitubrowser.2sh.tw" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  :  # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
 # Site Author
 author:
