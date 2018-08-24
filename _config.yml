@@ -1,9 +1,9 @@
 # Site Settings
 encoding                 : "utf-8"
 locale                   : "en"
-title                    : "Sparrow"
+title                    : "龟兔浏览器"
 title_separator          : "-"
-description              : "A clean and minimal theme for writers."
+description              : "多核自选、自带海外加速的开源浏览器"
 favicon                  : "/assets/images/bird.png"
 avatar                   : "/assets/images/bird.png"
 url                      : "https://zjl88858.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -11,7 +11,7 @@ baseurl                  : "/guitubrowser" # the subpath of your site, e.g. "/bl
 
 # Site Author
 author:
-  name                   : "Lingyi" # appears in the footer and atom feed
+  name                   : "神龟、AlphaRabbit" # appears in the footer and atom feed
 
 comments                 : true # set it to false to disable comments
 disqus:
