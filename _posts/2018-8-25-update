@@ -1,0 +1,19 @@
+---
+title: 翻滚浏览器v18.8.2更新日志
+---
+1.移除Chrome Canary内核
+2.新增Chromium内核
+3.新增Chrome内核
+4.新增Firefox Nightly内核
+5.新增Firefox ESR内核
+6.新增CentBrowser内核
+7.新增FALKON内核
+8.移除神龟翻滚启动器（旧版本Websocket+Cloudflare Meek海外加速）
+9.新增Shadowsocks海外加速功能
+10.重写关闭时结束加速有关代码，可能有助于降低杀毒软件误报
+11.重写海外加速器的有关代码，不再需要弹出IE再关闭即可生效
+12.新增设置功能，可从桌面快捷方式或安装目录-setting.exe呼出
+13.Blink内核新增老板键功能，可以一键隐藏浏览器到托盘，默认按键为Alt+X
+14.除FALKON外所有内核的缓存文件当前全部存放到了/cache目录，可以从设置中一键清理缓存
+15.在/usr目录中为Gecko内核新增了插件目录，位置是/usr/ff***_plg
+16.Firefox ESR和CentBrowser内核已经支持自动更新，如果测试良好将会支持所有内核
