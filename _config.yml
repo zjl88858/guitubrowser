@@ -6,7 +6,7 @@ title_separator          : "-"
 description              : "多核自选、自带海外加速的开源浏览器"
 favicon                  : "/assets/images/newlogo.png"
 avatar                   : "/assets/images/newlogo.png"
-url                      : "http://guitubrowser.2sh.tw" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://gtacc.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
 # Site Author
